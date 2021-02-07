@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="API Test">
+
+	<test name="Download File From Google Drive">
+		<classes>
+			<class name="com.framework.testcasesbase.testsuite.ApiTestFactory"></class>
+		</classes>
+	</test> <!-- Test -->
+
+</suite> <!-- Suite -->
